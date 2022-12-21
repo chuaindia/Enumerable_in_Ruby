@@ -1,12 +1,12 @@
 module MyEnumerable
-    def all?
+  def all?
       each do |i|
         return true unless block_given?
         return false unless yield(i)
       end
       true
     end
-  
+
     def any?
       each do |i|
         return true unless block_given?
@@ -14,10 +14,10 @@ module MyEnumerable
       end
       false
     end
-  
+
     def enum_filter?
       array = []
       each { |i| array.push(i) if yield(i) }
       array
     end
-  end
+end
