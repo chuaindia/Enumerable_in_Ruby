@@ -57,11 +57,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Enumerable_in_Ruby] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Enumerable_in_Ruby]** is a project which shows the offical documentation about the 3 methods in Enumerable. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -96,9 +96,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[all? method]**
+- **[any? method]**
+- **[filter method]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -202,17 +202,18 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Tanusri Ghosh**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+- GitHub: https://github.com/chuaindia)
+- Twitter: https://twitter.com/chuaghosh@
+- LinkedIn:https://linkedin.com/in/tanusrighosh
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Abdulai Samuel Moiwa**
+
+- GitHub: [@githubhandle](https://github.com/samuelmoiwa)
+- Twitter: [@twitterhandle](https://twitter.com/samuelmoiwa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ing-abdulai-samuel-moiwa-726340142/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,9 +223,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[max method]**
+- [ ] **[min method]**
+- [ ] **[sort method]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
